@@ -93,6 +93,7 @@ print("--------------------------------------------------------------")
 
 # Output : 
 <img width="967" height="450" alt="image" src="https://github.com/user-attachments/assets/49f9d2d5-7c83-4c4f-9680-6c5b0ac72409" />
+
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
 
